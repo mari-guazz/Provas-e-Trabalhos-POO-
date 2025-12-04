@@ -14,10 +14,10 @@ public class ControleTeleSena {
     //Determina quantos bilhetes cada pessoa comprou
     private void gerarPessoasECompras() {
         String[] nomes = {
-            "Ana","Bruno","Carlos","Daniela","Eduardo",
-            "Fernanda","Giovana","Henrique","Isabela","João",
-            "Karen","Lucas","Mariana","Nicolas","Olivia",
-            "Paulo","Renata","Sofia","Thiago","Vanessa"
+            "Maria","Paulo","Leonardo","Daniela","Eduardo",
+            "Fernanda","Giovana","Luciana","Gustavo","João",
+            "Tamara","Lucas","Thiago","Nicolas","Carolina",
+            "Renata","Paulo","Sophia","Lorenzo","Vanessa"
         };
 
         for (int i = 0; i < 20; i++) {
