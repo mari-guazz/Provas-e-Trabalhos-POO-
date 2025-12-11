@@ -1,0 +1,6 @@
+idArtista;nomeArtista;genero;tituloMusica;duracao
+1;Anavitória;MPB;Trevo;210
+2;Coldplay;Rock;Yellow;270
+3;Ludovico Einaudi;Instrumental;Nuvole Bianche;330
+4;Blow Records;Disco;Popotão Grandão(1980);180
+5;HUNTR/X;KPop;Golden;194
